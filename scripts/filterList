@@ -1,0 +1,24 @@
+ frame.time_relative 
+ frame.number 
+ frame.len 
+ radiotap.datarate 
+ wlan.fc.type_subtype 
+ wlan_mgt.ssid 
+ wlan.bssid 
+ wlan_mgmt.qbss.cu 
+ wlan_mgt.ds.current_channel 
+ wlan_mgt.qbss.scount 
+ wlan.fc.retry 
+ wlan.fc.moredata 
+ wlan.fc.frag 
+ wlan.duration 
+ wlan.ra 
+ wlan.ta 
+ wlan.sa 
+ wlan.da 
+ wlan.seq 
+ wlan.qos.priority 
+ wlan.qos.amsdupresent 
+ wlan.fc.type 
+ a) radiotap.dbm_antsignal
+ b) radiotap.dbm_antsignal (actual rssi)
